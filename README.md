@@ -5,7 +5,7 @@ Este proyecto consiste en el análisis de la dosificación de hormigón mediante
 # Planteamiento del problema
 La necesidad de desarrollar una herramienta analítica que permita predecir el asentamiento del hormigon a partir de variables como relación agua/cemento, TMA, cemento, etc. mediante el uso de técnicas de aprendizaje automatico y graficos interactivos para facilitar la interpretación de resultados surge de la incertidumbre que puede llegar a generar ineficiencias, ensayos repetitivos y costos adicionales en una obra, a modo de poder garantizar la trabajabilidad y durabilidad del material.
 
-#Objetivos del proyecto:
+# Objetivos del proyecto:
 Objetivo general: Desarrollar un modelo predictivo y visual interactivo para analizar y estimar el asentamiento del hormigon en función de las variables determinadas por el método ACI 211.1
 Objetivos específicos:
 -Identificar relaciones útiles entre las variables para el análisis de datos
