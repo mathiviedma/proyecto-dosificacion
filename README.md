@@ -8,7 +8,7 @@ La necesidad de desarrollar una herramienta analítica que permita predecir el a
 
 
 # Librerias a utilizarse:
--pandas
+-pandas\n
 -numpy
 -matplotlib
 -plotly
