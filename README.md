@@ -2,6 +2,11 @@
 Analisis de la dosificacion de hormigon
 Este proyecto consiste en el análisis de la dosificación de hormigón mediante el método ACI 211.1 y desarrollo de un modelo predictivo de asentamiento usando aprendizaje automático
 
+# Integrantes
+-Mathias Hernan Viedma Alvarenga
+-Wolfgang Darwin Arsenio Pufal Barrios
+Agradecimiento especial al Ing. Antonio Medina por su ayuda con los procedimientos por la guia en el procedimiento y calculo del proceso de dosificacion
+
 # Planteamiento del problema
 La necesidad de desarrollar una herramienta analítica que permita predecir el asentamiento del hormigon a partir de variables como relación agua/cemento, TMA, cemento, etc. mediante el uso de técnicas de aprendizaje automatico y graficos interactivos para facilitar la interpretación de resultados surge de la incertidumbre que puede llegar a generar ineficiencias, ensayos repetitivos y costos adicionales en una obra, a modo de poder garantizar la trabajabilidad y durabilidad del material.
 
